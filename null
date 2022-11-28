@@ -1,1 +1,6 @@
-Ping request could not find host www.google.com. Please check the name and try again.
+
+Pinging www.google.com [142.251.10.106] with 32 bytes of data:
+Request timed out.
+
+Ping statistics for 142.251.10.106:
+    Packets: Sent = 1, Received = 0, Lost = 1 (100% loss),
