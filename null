@@ -1,8 +1,8 @@
 
 Pinging www.google.com [142.251.10.106] with 32 bytes of data:
-Reply from 142.251.10.106: bytes=32 time=25ms TTL=109
+Reply from 142.251.10.106: bytes=32 time=24ms TTL=109
 
 Ping statistics for 142.251.10.106:
     Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 25ms, Maximum = 25ms, Average = 25ms
+    Minimum = 24ms, Maximum = 24ms, Average = 24ms
