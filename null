@@ -1,8 +1,0 @@
-
-Pinging www.google.com [142.251.10.103] with 32 bytes of data:
-Reply from 142.251.10.103: bytes=32 time=24ms TTL=111
-
-Ping statistics for 142.251.10.103:
-    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
-Approximate round trip times in milli-seconds:
-    Minimum = 24ms, Maximum = 24ms, Average = 24ms
